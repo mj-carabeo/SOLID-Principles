@@ -53,4 +53,5 @@ public class OrderTest {
   }
 }
 
-UML Diagram:
+Here is the link to my UML Diagram:
+https://lucid.app/lucidchart/359bc360-a816-49ae-82a9-07d4f626dcfa/edit?beaconFlowId=6FF296503B5A7D16&invitationId=inv_e1eec2a3-c518-4a85-9454-ee8065a9ef1d&page=0_0#
